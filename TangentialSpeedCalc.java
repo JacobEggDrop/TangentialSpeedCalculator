@@ -46,7 +46,7 @@ public class TangentialSpeedCalc
 
         if(motor.trim().equalsIgnoreCase("775pro"))
         {
-            speed = 18730.0;;
+            speed = 18730.0;
         }
         else if(motor.trim().equalsIgnoreCase("Falcon"))
         {
